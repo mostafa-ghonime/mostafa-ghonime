@@ -12,12 +12,12 @@
   <a href="https://github.com/mostafa-ghonime/sufra-showcase"><img src="https://img.shields.io/badge/Sufra-Case_study-FF7A18?style=for-the-badge&logo=flutter&logoColor=white" alt="Sufra case study"/></a>
 </p>
 
-<p align="center"><img src="assets/1-divider.svg?v=1" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
 ## Featured: Sufra
 
 <a href="https://github.com/mostafa-ghonime/sufra-showcase">
-  <img src="assets/3-sufra-card.svg?v=1" width="100%" alt="Sufra, an Arabic-first nutrition companion built with Flutter and Firebase. Open the case study."/>
+  <img src="assets/sufra-card.svg?v=2" width="100%" alt="Sufra, an Arabic-first nutrition companion built with Flutter and Firebase. Open the case study."/>
 </a>
 
 <details>
@@ -36,12 +36,12 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 **NutriVision**: AI-driven dietary health assistant built with Flutter. [Repository](https://github.com/NutriVision-Team/NutriVision)
 
-<p align="center"><img src="assets/1-divider.svg?v=1" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
 ## Toolbox
 
 <p align="center">
-  <img src="assets/2-skills.svg?v=1" width="100%" alt="Kotlin, Jetpack Compose, Flutter, Firebase, Cloudflare Workers, AI integration"/>
+  <img src="assets/skills.svg?v=2" width="100%" alt="Kotlin, Jetpack Compose, Flutter, Firebase, Cloudflare Workers, AI integration"/>
 </p>
 
 <details>
@@ -80,7 +80,7 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 </details>
 
-<p align="center"><img src="assets/1-divider.svg?v=1" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
 ## Currently
 
