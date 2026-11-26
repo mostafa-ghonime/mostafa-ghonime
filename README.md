@@ -7,13 +7,47 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafaghonime10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mostafaghonime1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mostafaghonime10"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mostafaghonime1@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mostafa-ghonime/sufra-showcase"><img src="https://img.shields.io/badge/Sufra-Case_study-FF7A18?style=for-the-badge&logo=flutter&logoColor=white" alt="Sufra case study"/></a>
 </p>
 
-## About
+<p align="center"><img src="assets/1-divider.svg?v=1" width="100%" alt=""/></p>
 
-Mobile developer from Egypt building Android and cross-platform apps with Kotlin and Flutter. I care about clean architecture, smooth UI and apps that hold up in production.
+## Featured: Sufra
+
+<a href="https://github.com/mostafa-ghonime/sufra-showcase">
+  <img src="assets/3-sufra-card.svg?v=1" width="100%" alt="Sufra, an Arabic-first nutrition companion built with Flutter and Firebase. Open the case study."/>
+</a>
+
+<details>
+<summary><b>What I built and why it matters</b> (click to expand)</summary>
+
+<br/>
+
+- AI food-photo analysis and an Egyptian-Arabic AI coach, both served through serverless workers so no API keys ship inside the app
+- System design: offline-first logging with a local sync queue, Firestore per-user security rules, auth-aware routing, free-tier cost ceilings
+- Security: HTTPS-only networking, no credentials in local storage or logs, request timeouts and duplicate-tap guards
+- Full RTL Arabic/English UI, glass design system, hand-built animations, unit/widget/golden-tested
+
+Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-showcase) has the full write-up.
+
+</details>
+
+**NutriVision**: AI-driven dietary health assistant built with Flutter. [Repository](https://github.com/NutriVision-Team/NutriVision)
+
+<p align="center"><img src="assets/1-divider.svg?v=1" width="100%" alt=""/></p>
+
+## Toolbox
+
+<p align="center">
+  <img src="assets/2-skills.svg?v=1" width="100%" alt="Kotlin, Jetpack Compose, Flutter, Firebase, Cloudflare Workers, AI integration"/>
+</p>
+
+<details>
+<summary><b>Engineering focus</b> (click to expand)</summary>
+
+<br/>
 
 - Architecture: Clean Architecture, MVVM, feature-first modular structure, SOLID
 - State management: BLoC/Cubit, Coroutines and Flow
@@ -24,18 +58,12 @@ Mobile developer from Egypt building Android and cross-platform apps with Kotlin
 - System design: offline-first data flows, auth-aware navigation, security hardening, zero-cost-ceiling infrastructure
 - Workflow: Git, testing (unit, widget, golden renders), code review, agile teams
 
-## Featured work
+</details>
 
-**Sufra (سفرة)** — Arabic-first nutrition companion built with Flutter and Firebase, delivered to a client. Source is private; full write-up in the [Sufra case study](https://github.com/mostafa-ghonime/sufra-showcase).
+<details>
+<summary><b>Full stack list</b> (click to expand)</summary>
 
-- AI food-photo analysis and an Egyptian-Arabic AI coach, both served through serverless workers so no API keys ship inside the app
-- System design: offline-first logging with a local sync queue, Firestore per-user security rules, auth-aware routing, free-tier cost ceilings
-- Security: HTTPS-only networking, no credentials in local storage or logs, request timeouts and duplicate-tap guards
-- Full RTL Arabic/English UI, glass design system, hand-built animations, unit/widget/golden-tested
-
-**NutriVision** — AI-driven dietary health assistant built with Flutter. [Repository](https://github.com/NutriVision-Team/NutriVision)
-
-## Tech stack
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -49,6 +77,10 @@ Mobile developer from Egypt building Android and cross-platform apps with Kotlin
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
+
+</details>
+
+<p align="center"><img src="assets/1-divider.svg?v=1" width="100%" alt=""/></p>
 
 ## Currently
 
