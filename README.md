@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="AI-powered apps, system design, clean architecture, Flutter and Kotlin" width="100%"/>
+  <img src="assets/typing.svg?v=2" alt="AI-powered apps, system design, clean architecture, Flutter and Kotlin" width="100%"/>
 </p>
 
 <p align="center">
