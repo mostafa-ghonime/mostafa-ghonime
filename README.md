@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ghonime</h1>
-<h3 align="center">A passionate Mobile Developer | Kotlin Multiplatform & Flutter Enthusiast from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaghonime1-nda&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaghonime1-nda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaghonime1-nda" alt="mostafaghonime1-nda" /></a> </p>
-
-- 🌱 I’m currently learning **Kotlin Multiplatform · Jetpack Compose · Advanced Flutter · Clean Architecture**
-
-- 👨‍💻 All of my projects are available at [[github.com/mostafaghonime1-Nda](https://github.com/mostafaghonime1-Nda)]([github.com/mostafaghonime1-Nda](https://github.com/mostafaghonime1-Nda))
-
-- 💬 Ask me about **Kotlin · Flutter · KMP · Clean Architecture · Jetpack Compose · Scalable App Design**
-
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/mostafaghonime10) · [GitHub](https://github.com/mostafaghonime1-Nda) · [Email](mailto:mostafaghonime1@gmail.com)**
-
-- 📄 Know about my experiences [Mobile Developer with hands-on experience in Kotlin, Kotlin Multiplatform (KMM), and Flutter (Dart). Focused on building scalable, performant, and cleanly architected mobile applications. Experienced with Android Jetpack, Jetpack Compose, and modern Android development tools. Strong understanding of Clean Architecture, MVVM, and SOLID principles. Skilled in collaborating within agile teams, using Git, CI/CD pipelines, and code review practices. Continuously learning and exploring new technologies to enhance mobile development practices.](Mobile Developer with hands-on experience in Kotlin, Kotlin Multiplatform (KMM), and Flutter (Dart). Focused on building scalable, performant, and cleanly architected mobile applications. Experienced with Android Jetpack, Jetpack Compose, and modern Android development tools. Strong understanding of Clean Architecture, MVVM, and SOLID principles. Skilled in collaborating within agile teams, using Git, CI/CD pipelines, and code review practices. Continuously learning and exploring new technologies to enhance mobile development practices.)
-
-- ⚡ Fun fact **I enjoy turning complex problems into simple, elegant solutions**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mostafaghonime10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafaghonime10" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Mostafa Ghonime, Android and Flutter Developer" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafaghonime10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mostafaghonime1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaghonime1-nda&show_icons=true&locale=en&layout=compact" alt="mostafaghonime1-nda" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaghonime1-nda&show_icons=true&locale=en" alt="mostafaghonime1-nda" /></p>
+Mobile developer from Egypt building Android and cross-platform apps with Kotlin and Flutter. I care about clean architecture, smooth UI and apps that hold up in production.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaghonime1-nda&" alt="mostafaghonime1-nda" /></p>
+- Architecture: Clean Architecture, MVVM, SOLID
+- Android: Kotlin, Jetpack Compose, Coroutines and Flow
+- Cross-platform: Flutter and Dart, Kotlin Multiplatform
+- Backend and services: Firebase (Auth, Firestore, Messaging), REST APIs, Cloudflare Workers
+- Workflow: Git, CI/CD, code review, agile teams
+
+## Featured work
+
+**Sufra (سفرة)**: an Arabic-first nutrition companion built with Flutter and Firebase. Meal logging with search, barcode and photo analysis, water and weight tracking, meal planning, reminders, a coaching section, PDF reports, light and dark themes, full RTL and Arabic/English support. Delivered to a client. Source is private; see the [Sufra case study](https://github.com/mostafaghonime1-Nda/sufra-showcase).
+
+**NutriVision**: AI-driven dietary health assistant built with Flutter. [Repository](https://github.com/NutriVision-Team/NutriVision)
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
+
+## Currently
+
+Going deeper on Kotlin Multiplatform, Jetpack Compose and scalable app design.
