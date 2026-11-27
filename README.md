@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mostafa Ghonime, Android and Flutter Developer" width="100%"/>
+  <img src="assets/banner.svg?v=2" alt="Mostafa Ghonime, Android and Flutter Developer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg?v=2" alt="AI-powered apps, system design, clean architecture, Flutter and Kotlin" width="100%"/>
+  <img src="assets/typing.svg?v=3" alt="AI-powered apps, system design, clean architecture, Flutter and Kotlin" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
   <a href="https://github.com/mostafa-ghonime/sufra-showcase"><img src="https://img.shields.io/badge/Sufra-Case_study-FF7A18?style=for-the-badge&logo=flutter&logoColor=white" alt="Sufra case study"/></a>
 </p>
 
-<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=3" width="100%" alt=""/></p>
 
 ## Featured: Sufra
 
 <a href="https://github.com/mostafa-ghonime/sufra-showcase">
-  <img src="assets/sufra-card.svg?v=2" width="100%" alt="Sufra, an Arabic-first nutrition companion built with Flutter and Firebase. Open the case study."/>
+  <img src="assets/sufra-card.svg?v=3" width="100%" alt="Sufra, an Arabic-first nutrition companion built with Flutter and Firebase. Open the case study."/>
 </a>
 
 <details>
@@ -35,7 +35,7 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 </details>
 
 
-<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=3" width="100%" alt=""/></p>
 
 ## How I build
 
@@ -43,12 +43,12 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 - **AI as leverage.** I build with AI tools every day as a force multiplier, and I hold their output to the same bar as hand-written code: reviewed, tested, secured.
 - **Evidence over claims.** Golden-tested UI, per-user security rules, offline-first sync, and a public [case study](https://github.com/mostafa-ghonime/sufra-showcase) that documents the real engineering decisions behind Sufra.
 
-<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=3" width="100%" alt=""/></p>
 
 ## Toolbox
 
 <p align="center">
-  <img src="assets/skills.svg?v=3" width="100%" alt="Kotlin, Dart, Flutter, Firebase, Cloudflare Workers, AI integration"/>
+  <img src="assets/skills.svg?v=4" width="100%" alt="Kotlin, Dart, Flutter, Firebase, Cloudflare Workers, AI integration"/>
 </p>
 
 <details>
@@ -87,12 +87,12 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 </details>
 
-<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=3" width="100%" alt=""/></p>
 
 ## Certified: Digital Egypt Pioneers
 
 <p align="center">
-  <img src="assets/certificates.svg" width="100%" alt="Digital Egypt Pioneers initiative, sponsored by Egypt's Ministry of Communications and Information Technology"/>
+  <img src="assets/certificates.svg?v=2" width="100%" alt="Digital Egypt Pioneers initiative, sponsored by Egypt's Ministry of Communications and Information Technology"/>
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 </details>
 
-<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=3" width="100%" alt=""/></p>
 
 ## Currently
 
