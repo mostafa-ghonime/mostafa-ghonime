@@ -34,7 +34,6 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 </details>
 
-**NutriVision**: AI-driven dietary health assistant built with Flutter. [Repository](https://github.com/NutriVision-Team/NutriVision)
 
 <p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
