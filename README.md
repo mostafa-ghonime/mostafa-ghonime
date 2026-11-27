@@ -37,10 +37,18 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 <p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
+## How I build
+
+- **Production first.** Every component I ship is judged by what it does for the client and the end user, not by how it looks sitting in a repo.
+- **AI as leverage.** I build with AI tools every day as a force multiplier, and I hold their output to the same bar as hand-written code: reviewed, tested, secured.
+- **Evidence over claims.** Golden-tested UI, per-user security rules, offline-first sync, and a public [case study](https://github.com/mostafa-ghonime/sufra-showcase) that documents the real engineering decisions behind Sufra.
+
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+
 ## Toolbox
 
 <p align="center">
-  <img src="assets/skills.svg?v=2" width="100%" alt="Kotlin, Jetpack Compose, Flutter, Firebase, Cloudflare Workers, AI integration"/>
+  <img src="assets/skills.svg?v=3" width="100%" alt="Kotlin, Dart, Flutter, Firebase, Cloudflare Workers, AI integration"/>
 </p>
 
 <details>
@@ -50,12 +58,13 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 - Architecture: Clean Architecture, MVVM, feature-first modular structure, SOLID
 - State management: BLoC/Cubit, Coroutines and Flow
-- Android: Kotlin, Jetpack Compose
-- Cross-platform: Flutter and Dart, Kotlin Multiplatform
+- Android: Kotlin
+- Cross-platform: Flutter and Dart
 - Backend and services: Firebase (Auth, Firestore, Messaging), REST APIs, serverless Cloudflare Workers
 - AI in production: LLM chat and vision-model pipelines behind serverless gateways, model evaluation for Arabic dialect quality
 - System design: offline-first data flows, auth-aware navigation, security hardening, zero-cost-ceiling infrastructure
-- Workflow: Git, testing (unit, widget, golden renders), code review, agile teams
+- Quality: unit, widget and golden rendering tests, structured error handling, performance optimization
+- Workflow: Git, code review, technical documentation
 
 </details>
 
@@ -66,7 +75,6 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -81,6 +89,32 @@ Source is private. The [case study](https://github.com/mostafa-ghonime/sufra-sho
 
 <p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
 
+## Certified: Digital Egypt Pioneers
+
+<p align="center">
+  <img src="assets/certificates.svg" width="100%" alt="Digital Egypt Pioneers initiative, sponsored by Egypt's Ministry of Communications and Information Technology"/>
+</p>
+
+<p align="center">
+  <img src="assets/cert-depi-software-tester.jpg" width="49%" alt="DEPI Certificate of Achievement: Software Development, Software Tester track, June to December 2025"/>
+  <img src="assets/cert-depi-business-english.jpg" width="49%" alt="DEPI Certificate of Completion: Business English Track, Round 3, June to December 2025"/>
+</p>
+
+<details>
+<summary><b>What these rounds covered</b> (click to expand)</summary>
+
+<br/>
+
+- **Software Development, Software Tester track (Round 3, Jun-Dec 2025):** testing discipline applied to real software delivery: test design, manual and structured QA, graduation project defended in December 2025.
+- **Business English Track (Round 3, Jun-Dec 2025):** professional English for client communication, delivered by SYE English Community.
+- **Round 5 (in progress), Software Development, Cross Platform Mobile App Developer track:** Prompt Engineering, Dart Fundamentals for Flutter, Flutter Fundamentals, Flutter Advanced Topics, Firebase, UX/UI Basics, Git and GitHub, Functional Documentation and Unit Testing, Mobile Deployment for Android and iOS, and a Capstone Project.
+- **Round 5 engineering growth:** architecture, testing, performance, security and CI/CD, applied to production-ready apps, reusable packages and technical case studies. Skills demonstrated: Flutter, Dart, REST APIs, JSON parsing, software architecture, dependency injection, testing, CI/CD and error handling.
+- **Round 5 capstone, Sufra, an advanced nutrition application:** feature-based architecture, localization with Arabic RTL and English LTR support, a notification system, reusable UI components, state management, API and backend integration, performance optimization, integration testing, technical documentation and cross-feature integration.
+
+</details>
+
+<p align="center"><img src="assets/divider.svg?v=2" width="100%" alt=""/></p>
+
 ## Currently
 
-Going deeper on Kotlin Multiplatform, Jetpack Compose, AI integration patterns and scalable app design.
+Going deeper on Flutter advanced topics, Firebase, AI integration patterns and scalable app design, through the current DEPI round.
